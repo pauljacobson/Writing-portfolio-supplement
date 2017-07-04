@@ -1,8 +1,8 @@
 ## Background
 
-I applied to Wix for a marketing position and I was asked to write this hypothetical email newsletter promoting four Apps from the Wix App Market. I have retained Wix's name in this text because I included screenshots from the Wix and the text refers to specific Wix Apps.
+I (unsuccessfully) applied to Wix for a marketing position and I was asked to write this hypothetical email newsletter promoting four Apps from the Wix App Market. I have retained Wix's name in this text because I included screenshots from the Wix and the text refers to specific Wix Apps.
 
-I was not successful in my application, unfortunately.
+One or more of the image links in this document may fail as the source images are moved.
 
 ## Text
 
